@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&center=true&width=435&lines=Hello%2C+There+%3A)+%F0%9F%91%8B;This+Side+Gourav;Good+to+see+You)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 Currently a Student in NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on Machine Learning topics<br>🧠 I’m currently learning Deep Learning<br>💬 Ask me about Python and Machine Learning<br>
 
