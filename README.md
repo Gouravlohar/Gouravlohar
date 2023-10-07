@@ -3,7 +3,8 @@
 # 💫 About Me:
 🔭 Currently a Student in NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on Machine Learning topics<br>🧠 I’m currently learning Deep Learning<br>💬 Ask me about Python and Machine Learning<br>
 
-[![An image of @gouravlohar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gouravlohar)](https://holopin.io/@gouravlohar)
+[![An image of @gouravlohar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gouravlohar)](holopin.io/@gouravlohar
+)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gouravlohar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gouravlohar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gouravlohar/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gouravlohar1/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Gourav-Lohar-9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gouravlohar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21390714) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gouravlohar_) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gouravlohar) 
