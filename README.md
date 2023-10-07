@@ -26,7 +26,5 @@ https://www.hacksquad.dev/ticket/Gouravlohar
 
 
 
+  ![68747470733a2f2f6d656469612e74656e6f722e636f6d2f766c6174714a426a4d6930414141416a2f616d6f6e672d75732e676966](https://github.com/Gouravlohar/Gouravlohar/assets/55839674/da200714-6017-4cb0-b85a-47c3608ab97e)
 
-![giphy](https://github.com/Gouravlohar/Gouravlohar/assets/55839674/8824ed74-3c48-45c1-92cc-d3113016753f)
-
-  
