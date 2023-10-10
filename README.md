@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Young+Serif&weight=500&size=30&pause=1000&width=435&lines=Hello%2C+There+%3A)+%F0%9F%91%8B;This+Side+Gourav;Good+to+see+You" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&weight=500&size=30&pause=1000&width=435&lines=Hello%2C+There+%3A)+%F0%9F%91%8B;This+Side+Gourav;Good+to+see+You" alt="Typing SVG" />
 
 # 💫 About Me:
 🔭 Currently a Student in NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on Machine Learning topics<br>🧠 I’m currently learning Deep Learning<br>💬 Ask me about Python and Machine Learning<br>
@@ -27,5 +27,5 @@ https://www.hacksquad.dev/ticket/Gouravlohar
 
 
 
-                                        ![68747470733a2f2f6d656469612e74656e6f722e636f6d2f766c6174714a426a4d6930414141416a2f616d6f6e672d75732e676966](https://github.com/Gouravlohar/Gouravlohar/assets/55839674/da200714-6017-4cb0-b85a-47c3608ab97e)
+![68747470733a2f2f6d656469612e74656e6f722e636f6d2f766c6174714a426a4d6930414141416a2f616d6f6e672d75732e676966](https://github.com/Gouravlohar/Gouravlohar/assets/55839674/da200714-6017-4cb0-b85a-47c3608ab97e)
 
