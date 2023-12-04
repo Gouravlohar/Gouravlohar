@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&weight=500&size=30&pause=1000&width=435&lines=Hello%2C+There+%3A)+%F0%9F%91%8B;This+Side+Gourav;Good+to+see+You" alt="Typing SVG">
 
 # 💫 About Me:
-🔭 Currently a Student in NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on Machine Learning topics<br>🧠 I’m currently learning Deep Learning<br>💬 Ask me about Python and Machine Learning<br>
+🔭 Currently a Student in NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on Machine Learning topics<br>🧠 I’m currently learning Deep Learning<br>💬 Ask me about Python and Machine Learning<br> 
 
 [![An image of @gouravlohar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gouravlohar)](holopin.io/@gouravlohar)
 
