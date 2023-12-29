@@ -33,7 +33,7 @@ https://www.hacksquad.dev/ticket/Gouravlohar
 </div>
 
 <div style="width: 800px; margin: 0 auto; text-align: center;">
-  <img src="[https://example.com/your-image.jpg](https://github.com/Gouravlohar/Gouravlohar/assets/55839674/da200714-6017-4cb0-b85a-47c3608ab97e)" style="display: block; margin: 0 auto; max-width: 100%;" alt="Your Image" />
+  <img src="https://github.com/Gouravlohar/Gouravlohar/assets/55839674/da200714-6017-4cb0-b85a-47c3608ab97e" style="display: block; margin: 0 auto; max-width: 100%;" alt="Your Image" />
 </div>
 
 
