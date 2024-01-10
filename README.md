@@ -13,6 +13,7 @@
 
 # Hack Squad Ticket
 https://www.hacksquad.dev/ticket/Gouravlohar
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gouravlohar&theme=dark" alt="GitHub Streak" /></a>
 
 # 📶 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gouravlohar&theme=dark&hide_border=false) <br/>
